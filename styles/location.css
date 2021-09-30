@@ -1,0 +1,24 @@
+@import url(visited.css);
+
+* {
+    border: 1px dotted goldenrod;
+}
+
+.header {
+    text-align: center;
+    display: flex;
+}
+
+.title  {
+    flex: 3;
+}
+
+.bar {
+    flex: 1;
+}
+
+.visited {
+    border: 1px solid red;
+    display: flex;
+    justify-content: space-evenly;
+}

@@ -1,0 +1,11 @@
+.area {
+    flex-direction: column;
+    flex-wrap: wrap;
+   display: inline-block;
+}
+
+img {
+   width: 100px;
+   height: 100px;
+}
+

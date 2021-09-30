@@ -1,0 +1,5 @@
+.fish {
+    flex-direction: column;
+    flex-wrap: wrap;
+    display: inline-block;
+}

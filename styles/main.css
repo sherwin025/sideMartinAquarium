@@ -1,0 +1,32 @@
+@import url(fish.css);
+
+* {
+    border: 1px dotted goldenrod;
+}
+
+.header {
+    text-align: center;
+    display: flex;
+}
+
+.title  {
+    flex: 3;
+}
+
+.bar {
+    flex: 1;
+}
+
+.fishes {
+    display: flex;
+    flex-wrap: nowrap;
+    justify-content: space-between;
+}
+
+.list {
+    flex: 4;
+}
+
+.clean {
+    flex: 1;
+}
